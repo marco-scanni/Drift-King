@@ -27,7 +27,7 @@ void draw() {
     rc.incrementLap();
     obs.oneSectionObstacles();
   }
-  //obs.lossChecker();
+
 }
 
 void keyPressed() {
