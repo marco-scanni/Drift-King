@@ -27,7 +27,6 @@ void draw() {
     rc.incrementLap();
     obs.oneSectionObstacles();
   }
-
 }
 
 void keyPressed() {
